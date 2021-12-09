@@ -1,0 +1,14 @@
+upload:
+  product:
+    meta: 'F:\upload\'
+
+server:
+  port: 8081
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1/yikun?serverTimezone=UTC&characterEncoding=utf-8
+    password: root
+    username: root
+
+
